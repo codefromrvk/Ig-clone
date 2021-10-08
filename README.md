@@ -1,2 +1,3 @@
-# Ig-clone
-Created with CodeSandbox
+# instagram-clone
+
+Built using react
